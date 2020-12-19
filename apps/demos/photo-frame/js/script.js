@@ -1,5 +1,5 @@
 const refreshRate = 30000; // 30 seconds
-const baseUrl = `https://source.unsplash.com/collection/3330448/${screen.width}x${screen.height}/`;
+const baseUrl = `https://1drv.ms/u/s!Arj4eYfbW8IRgrkpjs5Sw_e-SqJx8A?e=AtR8pr/${screen.width}x${screen.height}/`;
 const frames = [$('#picture1'), $('#picture2')];
 let activeFrame = 0;
 
